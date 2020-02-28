@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mayra Mendiola's Resume</title>
+  </head>
+  
+  <body>
+    <h2>Mayra Mendiola's Resume</h2>
+    <img class="sunflower-pic" src="https://lh3.googleusercontent.com/proxy/Hs3fEB1NLtf5vlKN7JtRTElScIiLVYsmC2A3d35ItUyIa6aAssCjG4xM43su8NJV5-GE3ssLSup3Vj0VZwbBRixnaJIvoUZJohxY6LSnk_BDvYWJ3ot3sDySiUTgOOyO">
+    <h4>Education</h4>
+    <p>Orange Glen High School</p>
+    <h4>Extra Curricular Activities</h4>
+    <ul>
+      <li>Key Club</li>
+        <ul>
+        <li>Vice President 2018-2019</li>
+        <li>Treasurer 2019-2020</li>
+        </ul>
+      <li>National Honors Society
+        <ul>
+        <li>Secretary 2019-2020
+        </ul>
+      <li>California Scholarship Federation
+      <li>OGneers Robotics Team</li>
+         <ul>  
+           <li>Vice President</li>
+         </ul>
+      <li>SONY Star Class 2020
+    </ul>
+    <h4>Contact Me</h4>
+    <a href="mailto:mayramendiola07@gmail.com">Email me!</a>
